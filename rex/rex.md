@@ -1,6 +1,6 @@
 !SLIDE subsection
 
-# REX perso
+# REX perso (de Sébastien)
 
 !SLIDE
 
