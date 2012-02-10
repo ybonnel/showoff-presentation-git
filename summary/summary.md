@@ -1,6 +1,6 @@
 !SLIDE subsection
 
-# Soirée Git
+# Présentation Git
 
 !SLIDE
 

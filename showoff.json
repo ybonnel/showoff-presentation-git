@@ -1,6 +1,6 @@
 {
-  "name": "Soirée Git",
-  "description": "Soirée Git",
+  "name": "Présentation Git",
+  "description": "Présentation Git",
   "sections": [
     {"section":"title"}, 
     {"section":"me"},

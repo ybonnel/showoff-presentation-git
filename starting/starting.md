@@ -6,8 +6,8 @@
 
 # 1er réflexe
 
-	$ git config --global user.name "Sébastien Douche"
-	$ git config --global user.email "sdouche@gmail.com"
+	$ git config --global user.name "Yan Bonnel"
+	$ git config --global user.email "ybonnel@sopragroup.com"
 
 !SLIDE center
 

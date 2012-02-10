@@ -1,6 +1,6 @@
 !SLIDE
 
-# &lt;me&gt;
+# &lt;him&gt;
 
 !SLIDE full-page
 
@@ -88,8 +88,8 @@
 
 !SLIDE
 
-# Je n'ai rien à vous vendre
+# Il n'a rien à nous vendre
 
 !SLIDE center
 
-# &lt;/me&gt;
+# &lt;/him&gt;
