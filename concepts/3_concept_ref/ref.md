@@ -101,7 +101,7 @@
 !SLIDE
 
 # Exemples
-## sebastien/experiment
+## yan/experiment
 ## toto/titi/tutu
 
 !SLIDE bullets
